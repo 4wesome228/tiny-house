@@ -1,0 +1,7 @@
+type Query{
+    listings:[Listing!]!
+}
+
+type Mutation{
+    deleteListing (id:ID!):Listing
+}

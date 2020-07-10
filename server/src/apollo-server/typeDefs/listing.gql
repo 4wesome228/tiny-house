@@ -1,0 +1,11 @@
+type Listing{
+    id:ID
+    title:String
+    image:String
+    address:String
+    price:Int
+    numOfGuests:Int
+    numOfBeds:Int
+    numbOfBath:Int
+    rating:Int
+}

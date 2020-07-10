@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./bundle",
+    "module": "commonjs",
+    "target": "es6",
+    "noUnusedLocals": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
